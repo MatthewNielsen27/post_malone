@@ -1,5 +1,7 @@
 # Malone
 
+[![Build Status](https://travis-ci.com/MatthewNielsen27/post_malone.svg?branch=master)](https://travis-ci.com/MatthewNielsen27/post_malone)
+
 **TODO: Add description**
 
 ## Installation
