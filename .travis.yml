@@ -1,0 +1,9 @@
+
+language: elixir
+sudo: false
+env:
+  global:
+    - MIX_ENV=test
+script:
+  - mix credo --strict
+  - mix test
